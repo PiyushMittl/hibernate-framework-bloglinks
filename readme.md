@@ -25,3 +25,9 @@ class User with data member:
 5. Vehicle (its an Entity one object only) - often called one to one mapping  
 6. ArrayList<Vehicle> - called one to many mapping  
 
+----
+1. @Embedded
+2. @Embeddeble
+3. @Entity
+4. @ElementCollection
+5. @CollectionId
